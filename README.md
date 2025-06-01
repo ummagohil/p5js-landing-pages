@@ -5,9 +5,9 @@ This will be part of a mono repo of landing pages that use p5.js.
 User can see different use cases of landing pages using p5.js in different repos. 
 
 ### 👩‍💻Technical Details
-React
-TypeScript
-p5.js 
+- React
+- TypeScript
+- p5.js 
 
 ### 💻Code
 [TO DO]
