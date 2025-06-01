@@ -1,13 +1,13 @@
 # ✍️💨P5.js Landing Pages
-This will be part of a mono repo of landing pages that use Rive. 
+This will be part of a mono repo of landing pages that use p5.js. 
 
 ### 📋Aims of App
-User can see different use cases of landing pages using Rive in different repos. 
+User can see different use cases of landing pages using p5.js in different repos. 
 
 ### 👩‍💻Technical Details
 React
 TypeScript
-Rive 
+p5.js 
 
 ### 💻Code
 [TO DO]
